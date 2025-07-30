@@ -1,2 +1,2 @@
 # R
-This is demo for Git &amp; Github classs
+This is demo for Git &amp; Github classs.
